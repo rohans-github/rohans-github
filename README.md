@@ -1,6 +1,6 @@
-### Hi 👋 I'm Rohan Chadha
+# Hi 👋 I'm Rohan Chadha
 
-# 💫 About Me:
+## 💫 About Me:
 I am a second-year computer engineering student at The Georgia Institute of Technology, specializing in Distributed Systems & Software Design and Information Internetworks. I am passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
@@ -10,7 +10,7 @@ I'm currently engaged in various side projects, one of which involves developing
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/chadha-rohan) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

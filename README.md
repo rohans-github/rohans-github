@@ -1,7 +1,7 @@
 # Hi 👋 I'm Rohan Chadha
 
 ## 💫 About Me:
-I am a second-year computer engineering student at The Georgia Institute of Technology, specializing in Distributed Systems & Software Design and Information Internetworks. I am passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a third-year computer engineering student at The Georgia Institute of Technology, specializing in Distributed Systems & Software Design and Information Internetworks. I am passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
 I am actively seeking internship opportunities in the dynamic fields of software engineering and product management.<br><br>

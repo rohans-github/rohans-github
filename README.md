@@ -4,7 +4,7 @@
 I am a computer engineering student at The Georgia Institute of Technology, specializing in Distributed Systems & Software Design and Information Internetworks. I am passionate about exploring the realms of coding, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To
-I am actively seeking internship opportunities in the dynamic fields of software engineering and product management.<br><br>
+I am actively seeking internship opportunities in the dynamic fields of software engineering and product management.<br>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chadha-rohan)
